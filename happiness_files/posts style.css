@@ -1,0 +1,249 @@
+
+main{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 300vh;
+    width: 100vw;
+    background-color: white;        
+}
+#sec1{
+    position: fixed;
+    top: 0;
+    height: 6vh;
+    width: 100vw;
+    left: 0;
+    background-color: whitesmoke;
+    z-index: 3;
+}
+#text{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    font-size: 26px;
+    color: black;
+    font-family:arialblack;
+}
+#sec2{
+    position: absolute;
+    top: 5%;
+    height: 440vh;
+    width: 1vw;    
+    right: 31%;
+    background-color: rgb(65, 21, 21);
+}
+#container{
+    position: absolute;
+    top: 5%;
+    height: 380vh;
+    width: 28vw;
+    right: 2%;
+    border-radius: 5px;
+    background-color: transparent;
+}
+#recent{
+    position: absolute;
+    top: 0%;
+    height: 2.50vh;
+    width: 20vw;
+    background-color: transparent;
+}
+#check{
+    font-size: 22px;
+}
+#sec4i{
+    position: absolute;
+    top: 1%;
+    left: 0;
+    height: 18vh;
+    width: 11vw;
+    border-radius: 5px;
+    background-image: url(./porn.jpg);
+    background-size: cover;
+    background-position: top ;
+
+}
+#sec4ii{
+    position: absolute;
+    top: 1%;
+    left: 41%;
+    height: 18vh;
+    width: 17vw;
+    border-radius: 5px;
+    background-color: transparent;
+}
+#span1{
+    position: absolute;
+    top: 6%;
+    left: 8%;
+    font-size: 25px;
+
+}
+#sec5i{
+    position: absolute;
+    top: 7%;
+    left: 0;
+    height: 18vh;
+    width: 11vw;
+    border-radius: 5px;
+    background-image: url(./relationship.jpg);
+    background-size: cover;
+}
+#sec5ii{
+    position: absolute;
+    top: 7%;
+    left: 41%;
+    height: 18vh;
+    width: 17vw;
+    border-radius: 5px;
+    background-color:  transparent;
+}
+#sec6i{
+    position: absolute;
+    top: 13%;
+    left: 0;
+    height: 18vh;
+    width: 11vw;
+    border-radius: 5px;
+    background-image: url(./attractive.jpg);
+    background-size: cover;
+    background-position: top;
+}
+#sec6ii{
+    position: absolute;
+    top: 13%;
+    left: 41%;
+    height: 18vh;
+    width: 17vw;
+    border-radius: 5px;
+    background-color:  transparent;
+}
+#sec7i{
+    position: absolute;
+    top: 19%;
+    left: 0;
+    height: 18vh;
+    width: 11vw;
+    border-radius: 5px;
+    background-image: url(./worry.jpg);
+    background-size: cover;
+}
+#sec7ii{
+    position: absolute;
+    top: 19%;
+    left: 41%;
+    height: 18vh;
+    width: 17vw;
+    border-radius: 5px;
+    background-color:  transparent;
+}
+
+#sec3{
+    position: absolute;
+    top: 5%;
+    left: 1.50%;
+    background-image: url(./friendship.jpg);
+    background-size: contain;
+    background-size: cover;
+    height: 60vh;
+    width: 66vw;
+}
+.text2{
+    position: absolute;
+    top: 25%;
+    left: 1.50%;
+    font-size: 50px;
+    font-family: forte;
+}
+.text2i{
+    position: absolute;
+    top: 28%;
+    left: 1.50%;
+    font-size: 50px;
+    font-family: forte;
+}
+.text2ii{
+    position: absolute;
+    top: 35%;
+    left: 1.50%;
+    font-size: 20px;
+    font-family: tahoma;
+    background-color: transparent;
+}
+.text2iii{
+    position: absolute;
+    top: 75%;
+    left: 0%;
+    font-size: 22px;
+    font-family: tahoma;
+    color: red;
+    background-color: transparent;
+}
+.text2iv{
+    position: absolute;
+    top: 120%;
+    left: %;
+    font-size: 25px;
+    font-family: tahoma;
+    co;
+    background-color: transparent;
+}
+.text2v{
+    position: absolute;
+    top: 160%;
+    left: 1%;
+    line-height: 210%;
+    font-size: 20px;
+    font-family: tahoma;
+    background-color: transparent;
+}
+.text2vi{
+    position: absolute;
+    top: 410%;
+    left: %;
+    font-size: 25px;
+    font-family: tahoma;
+    background-color: transparent;
+}
+.text2vii{
+    position: absolute;
+    top: 460%;
+    left: 1%;
+    line-height: 210%;
+    font-size: 20px;
+    font-family: tahoma;
+    background-color: transparent;
+}
+.text2viii{
+    position: absolute;
+    top: 620%;
+    left: %;
+    font-size: 25px;
+    font-family: tahoma;
+    background-color: transparent;
+}
+.text2ix{
+    position: absolute;
+    top: 660%;
+    left: 1%;
+    line-height: 210%;
+    font-size: 20px;
+    font-family: tahoma;
+    background-color: transparent;
+}
+.text2x{
+    position: absolute;
+    top: 850%;
+    font-size: 25px;
+    font-family: tahoma;
+    background-color: transparent;
+}
+.text2xi{
+    position: absolute;
+    top: 890%;
+    left: 1%;
+    line-height: 210%;
+    font-size: 20px;
+    font-family: tahoma;
+    background-color: transparent;
+}
